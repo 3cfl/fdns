@@ -1,15 +1,3 @@
-wiki.gd
-awiki.org
 developer.li
 wikilegia.com
-stocktester.ru
-stockcity.ru
-npmpt.com
-fuckwikia.com
-encyclopedia.tw
-imaginelearningmath.com
-wikilegia.org
-wikidelia.net
-explosionlearning.org
-wikithrough.com
-sabinghimire.com.np
+anpmech.com
