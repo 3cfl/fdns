@@ -1,26 +1,26 @@
 # fdns
 
 - ⚠️ [goguardian.v1](goguardian.v1/domains.txt) — error
-- ✅ [goguardian.v2](goguardian.v2/domains.txt) — 358 ms
-- ✅ [goguardian.ai](goguardian.ai/domains.txt) — 3629 ms
-- ✅ [securly](securly/domains.txt) — 1054 ms
-- ✅ [lightspeed](lightspeed/domains.txt) — 663 ms
-- ✅ [contentkeeper](contentkeeper/domains.txt) — 202 ms
-- ✅ [fortiguard](fortiguard/domains.txt) — 1125 ms
+- ✅ [goguardian.v2](goguardian.v2/domains.txt) — 620 ms
+- ✅ [goguardian.ai](goguardian.ai/domains.txt) — 5371 ms
+- ✅ [securly](securly/domains.txt) — 883 ms
+- ✅ [lightspeed](lightspeed/domains.txt) — 674 ms
+- ✅ [contentkeeper](contentkeeper/domains.txt) — 225 ms
+- ✅ [fortiguard](fortiguard/domains.txt) — 1347 ms
 - ⚠️ [paloalto](paloalto/domains.txt) — error
-- ✅ [blocksi](blocksi/domains.txt) — 1133 ms
-- ✅ [blocksi.guardian](blocksi.guardian/domains.txt) — 532 ms
-- ✅ [linewize](linewize/domains.txt) — 191 ms
+- ✅ [blocksi](blocksi/domains.txt) — 1331 ms
+- ✅ [blocksi.guardian](blocksi.guardian/domains.txt) — 505 ms
+- ✅ [linewize](linewize/domains.txt) — 212 ms
 - ⚠️ [umbrella](umbrella/domains.txt) — error
-- ✅ [lanschool](lanschool/domains.txt) — 2545 ms
-- ✅ [lanschool.air](lanschool.air/domains.txt) — 2318 ms
-- ✅ [aristotle](aristotle/domains.txt) — 452 ms
-- ✅ [senso](senso/domains.txt) — 1074 ms
+- ✅ [lanschool](lanschool/domains.txt) — 2934 ms
+- ✅ [lanschool.air](lanschool.air/domains.txt) — 3511 ms
+- ✅ [aristotle](aristotle/domains.txt) — 499 ms
+- ✅ [senso](senso/domains.txt) — 1386 ms
 - ⚠️ [deledao](deledao/domains.txt) — error
-- ✅ [iboss](iboss/domains.txt) — 1130 ms
-- ✅ [sophos](sophos/domains.txt) — 1008 ms
-- ✅ [dnsfilter](dnsfilter/domains.txt) — 1491 ms
-- ✅ [gaggle](gaggle/domains.txt) — 3015 ms
+- ✅ [iboss](iboss/domains.txt) — 1865 ms
+- ✅ [sophos](sophos/domains.txt) — 1272 ms
+- ✅ [dnsfilter](dnsfilter/domains.txt) — 1231 ms
+- ✅ [gaggle](gaggle/domains.txt) — 2929 ms
 - ⚠️ [qustodio](qustodio/domains.txt) — error
-- ✅ [cleanbrowsing](cleanbrowsing/domains.txt) — 282 ms
-- ✅ [zscaler](zscaler/domains.txt) — 177 ms
+- ✅ [cleanbrowsing](cleanbrowsing/domains.txt) — 417 ms
+- ✅ [zscaler](zscaler/domains.txt) — 194 ms
