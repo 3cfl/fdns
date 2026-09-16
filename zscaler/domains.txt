@@ -1,5 +1,3 @@
-wiki.gd
-awiki.org
 developer.li
 wikilegia.com
 stocktester.ru
