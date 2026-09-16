@@ -1,13 +1,1 @@
-wiki.gd
-awiki.org
-developer.li
-wikilegia.com
-stocktester.ru
-anpmech.com
-stockcity.ru
-npmpt.com
-encyclopedia.tw
-imaginelearningmath.com
-wikilegia.org
-wikidelia.net
-bingo-list.com
+error
