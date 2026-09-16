@@ -1,13 +1,1 @@
-ignorelist.com
-undo.it
-bot.nu
-root.sx
-pakasak.com
-ohbah.com
-24-7.ro
-120v.ac
-baselinux.net
-malam.or.id
-boxathome.net
-smelly.cc
-mysaol.com
+error

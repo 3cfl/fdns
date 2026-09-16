@@ -1,10 +1,1 @@
-barabesta.is
-ftp.sh
-port0.org
-serverpit.com
-verymad.net
-hs.vc
-surfnet.ca
-r-o-o-t.net
-hackquest.com
-aber.ir
+error

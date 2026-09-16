@@ -1,26 +1,26 @@
 # fdns
 
 - ⚠️ [goguardian.v1](goguardian.v1/domains.txt) — error
-- ✅ [goguardian.v2](goguardian.v2/domains.txt) — 8603 ms
-- ✅ [goguardian.ai](goguardian.ai/domains.txt) — 10462 ms
-- ✅ [securly](securly/domains.txt) — 10532 ms
-- ✅ [lightspeed](lightspeed/domains.txt) — 11573 ms
-- ✅ [contentkeeper](contentkeeper/domains.txt) — 12253 ms
-- ✅ [fortiguard](fortiguard/domains.txt) — 10938 ms
+- ⚠️ [goguardian.v2](goguardian.v2/domains.txt) — error
+- ⚠️ [goguardian.ai](goguardian.ai/domains.txt) — error
+- ⚠️ [securly](securly/domains.txt) — error
+- ⚠️ [lightspeed](lightspeed/domains.txt) — error
+- ⚠️ [contentkeeper](contentkeeper/domains.txt) — error
+- ⚠️ [fortiguard](fortiguard/domains.txt) — error
 - ⚠️ [paloalto](paloalto/domains.txt) — error
-- ✅ [blocksi](blocksi/domains.txt) — 10490 ms
-- ✅ [blocksi.guardian](blocksi.guardian/domains.txt) — 12514 ms
-- ✅ [linewize](linewize/domains.txt) — 10108 ms
-- ✅ [umbrella](umbrella/domains.txt) — 11776 ms
-- ✅ [lanschool](lanschool/domains.txt) — 10139 ms
-- ✅ [lanschool.air](lanschool.air/domains.txt) — 10052 ms
-- ✅ [aristotle](aristotle/domains.txt) — 11749 ms
-- ✅ [senso](senso/domains.txt) — 11138 ms
+- ⚠️ [blocksi](blocksi/domains.txt) — error
+- ⚠️ [blocksi.guardian](blocksi.guardian/domains.txt) — error
+- ⚠️ [linewize](linewize/domains.txt) — error
+- ⚠️ [umbrella](umbrella/domains.txt) — error
+- ⚠️ [lanschool](lanschool/domains.txt) — error
+- ⚠️ [lanschool.air](lanschool.air/domains.txt) — error
+- ⚠️ [aristotle](aristotle/domains.txt) — error
+- ⚠️ [senso](senso/domains.txt) — error
 - ⚠️ [deledao](deledao/domains.txt) — error
-- ✅ [iboss](iboss/domains.txt) — 10927 ms
-- ✅ [sophos](sophos/domains.txt) — 11546 ms
-- ✅ [dnsfilter](dnsfilter/domains.txt) — 12024 ms
-- ✅ [gaggle](gaggle/domains.txt) — 11261 ms
-- ✅ [qustodio](qustodio/domains.txt) — 10925 ms
-- ✅ [cleanbrowsing](cleanbrowsing/domains.txt) — 10848 ms
-- ✅ [zscaler](zscaler/domains.txt) — 13429 ms
+- ⚠️ [iboss](iboss/domains.txt) — error
+- ⚠️ [sophos](sophos/domains.txt) — error
+- ⚠️ [dnsfilter](dnsfilter/domains.txt) — error
+- ⚠️ [gaggle](gaggle/domains.txt) — error
+- ⚠️ [qustodio](qustodio/domains.txt) — error
+- ⚠️ [cleanbrowsing](cleanbrowsing/domains.txt) — error
+- ⚠️ [zscaler](zscaler/domains.txt) — error
