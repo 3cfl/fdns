@@ -1,26 +1,26 @@
 # fdns
 
 - ⚠️ [goguardian.v1](goguardian.v1/domains.txt) — error
-- ✅ [goguardian.v2](goguardian.v2/domains.txt) — 337 ms
-- ✅ [goguardian.ai](goguardian.ai/domains.txt) — 4881 ms
-- ✅ [securly](securly/domains.txt) — 1169 ms
-- ✅ [lightspeed](lightspeed/domains.txt) — 605 ms
-- ✅ [contentkeeper](contentkeeper/domains.txt) — 205 ms
-- ✅ [fortiguard](fortiguard/domains.txt) — 1060 ms
+- ✅ [goguardian.v2](goguardian.v2/domains.txt) — 368 ms
+- ✅ [goguardian.ai](goguardian.ai/domains.txt) — 4013 ms
+- ✅ [securly](securly/domains.txt) — 912 ms
+- ✅ [lightspeed](lightspeed/domains.txt) — 568 ms
+- ✅ [contentkeeper](contentkeeper/domains.txt) — 200 ms
+- ✅ [fortiguard](fortiguard/domains.txt) — 953 ms
 - ⚠️ [paloalto](paloalto/domains.txt) — error
-- ✅ [blocksi](blocksi/domains.txt) — 1185 ms
-- ✅ [blocksi.guardian](blocksi.guardian/domains.txt) — 513 ms
-- ✅ [linewize](linewize/domains.txt) — 205 ms
-- ✅ [umbrella](umbrella/domains.txt) — 2895 ms
-- ✅ [lanschool](lanschool/domains.txt) — 2894 ms
-- ✅ [lanschool.air](lanschool.air/domains.txt) — 3221 ms
-- ✅ [aristotle](aristotle/domains.txt) — 500 ms
-- ✅ [senso](senso/domains.txt) — 1162 ms
+- ✅ [blocksi](blocksi/domains.txt) — 877 ms
+- ✅ [blocksi.guardian](blocksi.guardian/domains.txt) — 455 ms
+- ✅ [linewize](linewize/domains.txt) — 180 ms
+- ✅ [umbrella](umbrella/domains.txt) — 2389 ms
+- ✅ [lanschool](lanschool/domains.txt) — 2535 ms
+- ✅ [lanschool.air](lanschool.air/domains.txt) — 2032 ms
+- ✅ [aristotle](aristotle/domains.txt) — 482 ms
+- ✅ [senso](senso/domains.txt) — 1015 ms
 - ⚠️ [deledao](deledao/domains.txt) — error
-- ✅ [iboss](iboss/domains.txt) — 1355 ms
-- ✅ [sophos](sophos/domains.txt) — 1176 ms
-- ✅ [dnsfilter](dnsfilter/domains.txt) — 1713 ms
-- ✅ [gaggle](gaggle/domains.txt) — 2848 ms
-- ✅ [qustodio](qustodio/domains.txt) — 3134 ms
-- ✅ [cleanbrowsing](cleanbrowsing/domains.txt) — 281 ms
-- ✅ [zscaler](zscaler/domains.txt) — 186 ms
+- ✅ [iboss](iboss/domains.txt) — 1220 ms
+- ✅ [sophos](sophos/domains.txt) — 1018 ms
+- ✅ [dnsfilter](dnsfilter/domains.txt) — 1085 ms
+- ✅ [gaggle](gaggle/domains.txt) — 2988 ms
+- ✅ [qustodio](qustodio/domains.txt) — 2052 ms
+- ✅ [cleanbrowsing](cleanbrowsing/domains.txt) — 342 ms
+- ✅ [zscaler](zscaler/domains.txt) — 160 ms

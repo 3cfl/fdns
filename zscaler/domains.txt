@@ -1,7 +1,5 @@
 wiki.gd
 awiki.org
-developer.li
-wikilegia.com
 stocktester.ru
 anpmech.com
 stockcity.ru
