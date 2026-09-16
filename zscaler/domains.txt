@@ -1,3 +1,5 @@
+wiki.gd
+awiki.org
 developer.li
 wikilegia.com
 stocktester.ru
@@ -5,7 +7,11 @@ anpmech.com
 stockcity.ru
 npmpt.com
 fuckwikia.com
-wikilegia.org
+encyclopedia.tw
+imaginelearningmath.com
+wikidelia.net
+explosionlearning.org
+wikithrough.com
 wikilegia.at
 bingo-list.com
 sabinghimire.com.np
